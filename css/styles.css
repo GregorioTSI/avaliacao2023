@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 20px;
+}
+
+#color-display-rgba {
+    margin: 20px auto;
+    width: 500px;
+    height: 500px;
+    background-color: black;
+}
+
+#color-ranges-rgba {
+    margin: auto;
+    text-align: center;
+}
+
+#color-ranges-hsl{
+    margin: auto;
+    text-align: center;
+}
+    
+#color-display-hsl  {
+    margin: 20px auto;
+    width: 500px;
+    height: 500px;
+    background-color: black;
+}
+label {
+    font-family: 'regular';
+    font-size: 18px;
+}
